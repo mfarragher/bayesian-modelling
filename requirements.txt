@@ -1,7 +1,7 @@
 pymc3==3.8
 theano
 pydot
-python-graphviz
+graphviz
 arviz
 cython
 
