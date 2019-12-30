@@ -1,5 +1,6 @@
 pymc3==3.8
 theano
+mkl  # BLAS
 pydot
 graphviz
 arviz
