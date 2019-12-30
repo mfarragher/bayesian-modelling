@@ -1,0 +1,19 @@
+pymc3==3.8
+theano
+pydot
+python-graphviz
+arviz
+cython
+
+# Notebook
+jupyter
+notebook
+
+# Plotting
+matplotlib
+seaborn
+
+# Make data libs explicit:
+pandas
+numpy
+scipy
