@@ -1,3 +1,4 @@
+# BAYESIAN LIBS
 pymc3==3.8
 theano
 mkl  # BLAS
@@ -5,10 +6,6 @@ pydot
 graphviz
 arviz
 cython
-
-# Notebook
-jupyter
-notebook
 
 # Plotting
 matplotlib
@@ -18,3 +15,12 @@ seaborn
 pandas
 numpy
 scipy
+
+# Notebook
+jupyter
+notebook
+jupyter_contrib_nbextensions
+
+# Other stats libs:
+statsmodels
+patsy
