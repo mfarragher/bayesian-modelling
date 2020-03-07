@@ -24,3 +24,4 @@ jupyter_contrib_nbextensions
 # Other stats libs:
 statsmodels
 patsy
+linearmodels
