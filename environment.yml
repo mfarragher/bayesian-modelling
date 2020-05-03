@@ -1,0 +1,28 @@
+name: bayesianmodelling
+channels:
+  - anaconda
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6
+  - notebook
+  - jupyter
+  - mkl
+  - mkl-service
+  - watermark
+  - cython
+  - pymc3
+  - scipy
+  - pandas
+  - theano
+  - numpy
+  - statsmodels
+  - graphviz
+  - seaborn
+  - pydot
+  - matplotlib
+  - arviz[version='>=0.7']
+  - anaconda
+  - pip
+  - pip:
+    - linearmodels
