@@ -11,7 +11,7 @@ dependencies:
   - mkl-service
   - watermark
   - cython
-  - pymc3
+  - pymc3[version='>=3.8']
   - scipy
   - pandas
   - theano
